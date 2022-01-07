@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="Poker_Hand_Sorter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Poker_Hand_Sorter_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Poker_Hand_Sorter.jar">
+        <element id="module-output" name="Poker_Hand_Sorter" />
+      </element>
+    </root>
+  </artifact>
+</component>
